@@ -24,10 +24,6 @@ public class Test {
         for (int i = 0; i < list.size(); i++) {
 			System.out.println("11");
 		}
-        //1111111111
-        //1111111111
-        //1111111111
-        //22222
 	}
 
 	
