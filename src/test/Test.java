@@ -32,12 +32,6 @@ public class Test {
         String str1 = "hello world !!!";
     	System.out.print("str :: {}"+str1);
     	int a = 1;
-    	//--------------------
-	    //1111122222222
-    	//============
-    	//33333333
-    	//1111111
-        //33333333
 	}
 	
 }
