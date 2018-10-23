@@ -28,4 +28,6 @@ public class Test {
     	System.out.print("str :: {}"+str);
         Map<String,Object> map = new HashMap<String,Object>();
 	}
+	String str = "hello world !!!";
+	System.out.print("str :: {}"+str);
 }
