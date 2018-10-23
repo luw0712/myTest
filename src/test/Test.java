@@ -27,7 +27,8 @@ public class Test {
         String str = "hello world !!!";
     	System.out.print("str :: {}"+str);
         Map<String,Object> map = new HashMap<String,Object>();
+        String str1 = "hello world !!!";
+    	System.out.print("str :: {}"+str1);
 	}
-	String str = "hello world !!!";
-	System.out.print("str :: {}"+str);
+	
 }
