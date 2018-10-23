@@ -31,7 +31,7 @@ public class Test {
 	    Map<String,Object> map2 = new HashMap<String,Object>();
         String str1 = "hello world !!!";
     	System.out.print("str :: {}"+str1);
-		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+	int a = 1;
 	}
 	
 }
