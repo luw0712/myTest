@@ -25,9 +25,4 @@ public class Test {
 			System.out.println("11");
 		}
 	}
-	//---11111
-	//---2222
-
-	
-
 }
