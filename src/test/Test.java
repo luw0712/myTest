@@ -32,7 +32,6 @@ public class Test {
         String str1 = "hello world !!!";
     	System.out.print("str :: {}"+str1);
 		int i=1;
-		int ii = 1;
 	}
 	
 }
