@@ -31,6 +31,8 @@ public class Test {
 	    Map<String,Object> map2 = new HashMap<String,Object>();
         String str1 = "hello world !!!";
     	System.out.print("str :: {}"+str1);
+		int i=1;
+		int ii = 1;
 	}
 	
 }
