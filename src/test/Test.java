@@ -25,4 +25,6 @@ public class Test {
 			System.out.println("11");
 		}
 	}
+	String str = "hello world !!!";
+	System.out.print("str :: {}"+str);
 }
