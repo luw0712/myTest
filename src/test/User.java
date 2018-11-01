@@ -18,5 +18,5 @@ public class User {
 	public void User(){
 		System.out.println("父类");
 	}
-	//测试合并2
+	//测试合并
 }
