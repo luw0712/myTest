@@ -34,6 +34,7 @@ public class Test {
     	int a = 1;
     	//wwwwwwww
 	//wwwwwwww
+    	//测试合并
 	}
 	
 }
